@@ -38,7 +38,6 @@ Deployed Application (optional): [Flixster Deployed Site](https://flixster-start
   - [x] The sidebar displays the user's favorited and watched movies
 
 ### Walkthrough Video
-
 'https://www.loom.com/share/94d48f59afcd45d3853c479b60ee7728?sid=d083ebdc-4df4-4f91-9c69-1d2ef9884188'
 
 
